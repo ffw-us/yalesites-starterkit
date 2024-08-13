@@ -1,0 +1,11 @@
+site_uuid: 3be7d457-cc13-4e03-bde2-d004a9e0f46e
+uuid: 1dc31b15-797a-47ab-9805-675d3c06988f
+entity_type: taxonomy_term
+bundle: page_category
+base_fields:
+  name: Resources
+  weight: 0
+  langcode: en
+  description: null
+  parent: 0
+custom_fields: {  }
